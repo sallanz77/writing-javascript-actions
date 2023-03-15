@@ -47,7 +47,7 @@ Write your own GitHub JavaScript Action and automate customized tasks unique to 
   Encourage users to open new tabs for steps!
 -->
 
-<details id=1 open>
+<details id=1>
 
 <summary><h2> Step 1: Initialize a new JavaScript project</h2></summary>
 
@@ -167,7 +167,7 @@ We will start with using the parameters that are **required** and later implemen
 
 </details>
   
-<details id=3>
+<details id=3 open>
 <summary><h2> Step 3: Create the metadata file</h2></summary>
 
 _Nice working configuring your action :smile:_
